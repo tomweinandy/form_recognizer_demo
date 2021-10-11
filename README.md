@@ -2,6 +2,8 @@
 
 Demonstration that uses Form Recognizer (of Azure Cognitive Services) with Azure Storage, Databricks, and Power BI for unlocking data in PDFs.
 
+Check out the associated blog post and embedded demo video: https://www.bluegranite.com/blog/extract-data-from-pdfs-at-scale-with-form-recognizer
+
 ### Assets
 1. Architecture of Form Recognizer Demo.jpg -- High-level overview of the demo
 2. sample_pdfs.zip -- Zipped file with 13 pdf invoices
